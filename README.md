@@ -16,3 +16,8 @@ ALPHA   WORD    1
 GAMMA   RESW    5
 BETA    WORD    3
 **      END     **
+
+
+MUL     18
+STA     0C
+
