@@ -16,8 +16,9 @@ ALPHA   WORD    1
 GAMMA   RESW    5
 BETA    WORD    3
 **      END     **
-
-
+```
+**Filename:** `opcode.txt`
+```
 MUL     18
 STA     0C
 
